@@ -1,7 +1,7 @@
 import 'package:flutter/material.dart';
 import 'package:flutter_riverpod/flutter_riverpod.dart';
 
-import '../../view_model/cart_state.dart';
+import '../../controller/cart_state.dart';
 
 class CartScreen extends ConsumerWidget {
   @override

@@ -1,8 +1,8 @@
-import 'package:cart_app/features/cart/view_model/product_view_model.dart';
+import 'package:cart_app/features/cart/controller/product_view_model.dart';
 import 'package:flutter/material.dart';
 import 'package:flutter_riverpod/flutter_riverpod.dart';
 
-import '../../view_model/cart_state.dart';
+import '../../controller/cart_state.dart';
 
 class HomeScreen extends ConsumerWidget {
   @override
